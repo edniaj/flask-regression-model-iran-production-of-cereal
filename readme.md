@@ -24,10 +24,10 @@ pip install -r requirements.txt
 
 
 1. Create a virtual environment named `venv`:
-python -m venv venv
+python -m venv myenv
 
 2. Activate the virtual environment:
-source venv/bin/activate
+source myenv/bin/activate
 
 
 3. Install the required packages from `requirements.txt`:
