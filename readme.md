@@ -7,33 +7,30 @@ Installation
 
 ## For Windows:
 
-1. Change to the `controller` directory:
-cd controller
 
-2. Create a virtual environment named `myenv`:
+1. Create a virtual environment named `myenv`:
 python -m venv myenv
 
-3. Activate the virtual environment:
+2. Activate the virtual environment:
 .\myenv\Scripts\Activate
 
-4. Install the required packages from `requirements.txt`:
+3. Install the required packages from `requirements.txt`:
 pip install -r requirements.txt
 
 
 ## For Linux/MacOS:
 
-1. Change to the `controller` directory:
-cd controller
 
 
-2. Create a virtual environment named `venv`:
+
+1. Create a virtual environment named `venv`:
 python -m venv venv
 
-3. Activate the virtual environment:
+2. Activate the virtual environment:
 source venv/bin/activate
 
 
-4. Install the required packages from `requirements.txt`:
+3. Install the required packages from `requirements.txt`:
 pip install -r requirements.txt
 
 
